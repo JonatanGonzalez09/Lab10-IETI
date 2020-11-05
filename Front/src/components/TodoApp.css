@@ -1,0 +1,9 @@
+.Send {
+    background-color: rgb(35, 165, 197) !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-color: blue;
+    color: white;
+    width: 75px;
+    height: 30px;
+    margin: 10px ;
+  }

@@ -1,0 +1,21 @@
+.iconUser{
+    color: rgb(61, 103, 153);
+    font-size: 70px !important ;
+}
+
+.logout{
+    position:fixed; 
+    left: 40px;
+    bottom:0px;  
+}
+
+.iconLogout{
+    color:rgb(61, 103, 153);
+    font-size: 40px !important ;
+}
+.buttonAdd{
+    position: fixed;
+    bottom:10px ;
+    right: 5%;
+    margin-right: -104.5px; /*104.5px is half of the button's width*/
+}
